@@ -46,6 +46,10 @@ java-graduate-program/
 └── .gitignore
 └── README.md
 ```
+
+## 6. 🔗 Recursos e Materiais
+- [📂 Material de Apoio Oficial (Acesso Privado)](https://drive.google.com/drive/folders/1E7ZPp02OSDnu2iZI7BP2bcZS2oKSC2jp?usp=sharing)
+- [📖 Ementa do Programa Java Elite](./Ementa_Java_Elite_Pos_Extensao_com_IA_.pdf)
 ---
 Developed by Rafael Porto
 *Repositório mantido para fins de estudo e portfólio técnico.*
