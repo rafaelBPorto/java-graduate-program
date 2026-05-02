@@ -34,6 +34,7 @@ Implementação de pirâmide de testes com JUnit, Mockito, Testcontainers e aná
 ### 5. Estrutura inicial de referência para planejamento de pastas
 ```shell
 java-graduate-program/
+├── 00-ambiance/                 # Definições da liguagem e sintaxe básica
 ├── 01-java-fundamentals/        # Estruturas de dados, OOP, Stream API, NIO
 ├── 02-backend-ia/               # Spring Boot, Quarkus e Langchain4j (RAG & Agents)
 ├── 03-frontend-react/           # React, Hooks, Context API
