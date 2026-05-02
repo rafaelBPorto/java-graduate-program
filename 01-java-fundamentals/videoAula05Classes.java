@@ -54,7 +54,7 @@ void main() {
 
 }
 
-// Convesção Java CamelCase para nome de Classes
+// Convenção Java CamelCase para nome de Classes
 class ItemCardapio{
 
   // Atributos -> Tipo nomeAtributo
