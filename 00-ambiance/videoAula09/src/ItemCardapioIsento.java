@@ -1,0 +1,18 @@
+// ItemCardapioIsento é um  ItemCardapio
+class ItemCardapioIsento extends ItemCardapio {
+
+
+    // construtor
+    ItemCardapioIsento(long id, String nome, String descricao, double preco, CategoriaCardapio categoria) {
+        //super refere-se aos itens da classe mãe
+        super(id, nome, descricao, preco, categoria);
+    }
+
+    //  reescrita de metodo (override)
+    // Anaotação (notation) Não é obrigatório mas é um indicador que este metodo foi reescrito
+    // Também fornce dica a IDE se o nome for modificado na classe mãe  
+    @Override
+    double calculaImposto() {
+        return 0.0;
+    }
+}

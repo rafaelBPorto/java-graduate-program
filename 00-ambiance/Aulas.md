@@ -64,3 +64,11 @@ Substituímos os "números mágicos" (como usar `int categoria = 4` para represe
  - NetBeans
  - VSCode (com extensões)
  - IntelliJ IDEA da JetBrains
+
+# Anotações de Aula: Módulo 0 - Aula 09 📚
+
+Inicio da organização do codigo
+- Seperação entre main, classes e enum
+- Introdução a herança e polimorfismo
+- Notation @override
+- utilização so `super()` para se referir a itens da classe mãe no construtor
