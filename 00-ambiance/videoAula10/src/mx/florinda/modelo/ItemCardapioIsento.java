@@ -1,5 +1,7 @@
+package mx.florinda.modelo;
+
 // ItemCardapioIsento é um  ItemCardapio
-class ItemCardapioIsento extends ItemCardapio {
+public class ItemCardapioIsento extends ItemCardapio {
 
 
     // construtor
@@ -12,7 +14,7 @@ class ItemCardapioIsento extends ItemCardapio {
     // Anaotação (notation) Não é obrigatório mas é um indicador que este metodo foi reescrito
     // Também fornce dica a IDE se o nome for modificado na classe mãe
     @Override
-    double calculaImposto() {
+    public double getImposto() {
         return 0.0;
     }
 }
