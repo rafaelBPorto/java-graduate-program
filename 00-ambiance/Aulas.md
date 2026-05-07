@@ -84,3 +84,5 @@ PACOTES, MODIFICADORES DE ACESSO, GETTERS E SETTERS
 # Anotações de Aula: Módulo 0 - Aula 12  📚
 - STRING
 
+# Anotações de Aula: Módulo 0 - Aula 13  📚
+- IMUTABILIDADE, STRINGBUILDER E FINAL
