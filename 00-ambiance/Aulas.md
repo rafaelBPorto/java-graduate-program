@@ -74,3 +74,6 @@ Inicio da organização do codigo
 
 
 *Notas tomadas por Rafael Porto durante a pós-graduação Java Elite.*
+
+# Anotações de Aula: Módulo 0 - Aula 10  📚
+PACOTES, MODIFICADORES DE ACESSO, GETTERS E SETTERS
