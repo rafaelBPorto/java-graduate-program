@@ -77,3 +77,10 @@ Inicio da organização do codigo
 
 # Anotações de Aula: Módulo 0 - Aula 10  📚
 PACOTES, MODIFICADORES DE ACESSO, GETTERS E SETTERS
+
+# Anotações de Aula: Módulo 0 - Aula 11  📚
+- PROTECTED
+
+# Anotações de Aula: Módulo 0 - Aula 12  📚
+- STRING
+
