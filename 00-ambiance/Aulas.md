@@ -55,7 +55,6 @@ Substituímos os "números mágicos" (como usar `int categoria = 4` para represe
 *   [Documentação Oracle: Enums](https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html)
 
 ---
-*Notas tomadas por Rafael Porto durante a pós-graduação Java Elite.*
 
 # Anotações de Aula: Módulo 0 - Aula 08 📚
 
@@ -72,3 +71,6 @@ Inicio da organização do codigo
 - Introdução a herança e polimorfismo
 - Notation @override
 - utilização so `super()` para se referir a itens da classe mãe no construtor
+
+
+*Notas tomadas por Rafael Porto durante a pós-graduação Java Elite.*
