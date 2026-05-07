@@ -1,4 +1,4 @@
-# Anotações de Aula: Módulo 0 - Aula 07 📚
+# Anotações de Aula: Módulo 0 - Aula 07 - ARRAYS DE OBJETOS, COMPOSIÇÃO E ENUMS 📚
  Este resumo foca nos três pilares trabalhados: **Arrays de Objetos**, **Composição** e **Enums**
 
 ---
@@ -56,7 +56,7 @@ Substituímos os "números mágicos" (como usar `int categoria = 4` para represe
 
 ---
 
-# Anotações de Aula: Módulo 0 - Aula 08 📚
+# Anotações de Aula: Módulo 0 - Aula 08 - INTELLIJ IDE E DEBUG 📚
 
 ## Opções de IDE
  - Eclipse
@@ -64,7 +64,7 @@ Substituímos os "números mágicos" (como usar `int categoria = 4` para represe
  - VSCode (com extensões)
  - IntelliJ IDEA da JetBrains
 
-# Anotações de Aula: Módulo 0 - Aula 09 📚
+# Anotações de Aula: Módulo 0 - Aula 09 - ORGANIZANDO EM ARQUIVOS E HERANÇA 📚
 
 Inicio da organização do codigo
 - Seperação entre main, classes e enum
