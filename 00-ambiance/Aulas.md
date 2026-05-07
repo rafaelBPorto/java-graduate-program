@@ -56,3 +56,11 @@ Substituímos os "números mágicos" (como usar `int categoria = 4` para represe
 
 ---
 *Notas tomadas por Rafael Porto durante a pós-graduação Java Elite.*
+
+# Anotações de Aula: Módulo 0 - Aula 08 📚
+
+## Opções de IDE
+ - Eclipse
+ - NetBeans
+ - VSCode (com extensões)
+ - IntelliJ IDEA da JetBrains
