@@ -1,9 +1,13 @@
+package mx.florinda.cli;
+
+import java.io.IOException;
 import mx.florinda.modelo.Cardapio;
 import mx.florinda.modelo.ItemCardapio;
 
-void main() {
+public class Main {
+    public static void main(String[] args) throws IOException {
 
-    String nomeArquivo = IO.readln("Digite um nome de arquivo de itens de cardápio: ");
+        String nomeArquivo = IO.readln("Digite um nome de arquivo de itens de cardápio: ");
     Cardapio cardapio = new Cardapio(nomeArquivo);
 
 
@@ -45,5 +49,6 @@ void main() {
         if (item.getPreco() <= precoLimite) {
             IO.println("Preço menor que " + precoLimite + ": " + item.getPreco());
         }
+    }
     }
 }
